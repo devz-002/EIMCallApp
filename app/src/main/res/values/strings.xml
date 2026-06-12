@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EIM Call Manager</string>
+    <string name="nav_recents">Recents</string>
+    <string name="nav_recordings">Recordings</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="no_calls_yet">No calls yet</string>
+    <string name="no_recordings">No recordings found</string>
+    <string name="recording_in_progress">Recording in progress</string>
+    <string name="call_recorded">Recorded</string>
+    <string name="active_call_in_progress">Call in progress</string>
+    <string name="end_call">End Call</string>
+</resources>
